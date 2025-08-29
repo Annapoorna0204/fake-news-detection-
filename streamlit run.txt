@@ -1,0 +1,2 @@
+Streamlit run app.py (to access to the website)
+Note: Dataset download(kaggle)
